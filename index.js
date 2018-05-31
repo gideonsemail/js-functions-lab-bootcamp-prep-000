@@ -1,4 +1,8 @@
 // write your code below!
-function whisper(string) {
-  return string.toLowerCase();
+function happyHolidays() {
+  return ("Happy Holidays!");
 }
+
+function happyHolidaysTo(holiday, name) {
+  return (`Happy ${holiday}, ${name}!`)
+  }
